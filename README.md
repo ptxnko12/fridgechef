@@ -34,7 +34,7 @@
 ## 🚀 Spustenie aplikácie
 
 ### Online (GitHub Pages)
-🌐 **[https://tvojegithubmeno.github.io/fridgechef/](https://tvojegithubmeno.github.io/fridgechef/)**
+🌐 **[https://ptxnko12.github.io/fridgechef//](https://ptxnko12.github.io/fridgechef//)**
 
 > ⚠️ Po nahraní na GitHub aktivuj GitHub Pages: **Settings → Pages → Source: `main` branch → Save**
 
